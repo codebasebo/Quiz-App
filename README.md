@@ -13,7 +13,7 @@ QuizApp is a simple web application that allows users to take quizzes on various
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/quizapp.git
+    git clone https://github.com/codebasebo/Quiz-App.git
     ```
 2. Navigate to the project directory:
     ```bash
